@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{yu_recent_2023}
+X.~Yu, Y.~Fu, J.~Li, J.~Mao, T.~Hoang, H.~Wang, Recent advances in wireless sensor networks for structural health monitoring of civil infrastructure, Journal of Infrastructure Intelligence and Resilience (2023) 100066\href {https://doi.org/10.1016/j.iintel.2023.100066} {\path{doi:10.1016/j.iintel.2023.100066}}.
+
+\bibitem{fu_suddenevent_2019}
+Y.~Fu, Sudden-event monitoring of civil infrastructure using wireless smart sensors, Thesis, University of Illinois at Urbana-Champaign (Oct. 2019).
+
+\bibitem{lea_iot_2020}
+P.~Lea, {{IoT}} and {{Edge Computing}} for {{Architects}}, Expert Insight, Packt Publishing, Limited, 2020.
+
+\bibitem{fu_sudden_2018}
+Y.~Fu, T.~Hoang, K.~Mechitov, J.~R. Kim, D.~Zhang, B.~F. Spencer, Sudden {{Event Monitoring}} of {{Civil Infrastructure Using Demand-Based Wireless Smart Sensors}}, Sensors 18~(12) (2018) 4480.
+\newblock \href {https://doi.org/10.3390/s18124480} {\path{doi:10.3390/s18124480}}.
+
+\bibitem{laflamme_roadmap_2023}
+S.~Laflamme, F.~Ubertini, A.~D. Matteo, A.~Pirrotta, M.~Perry, Y.~Fu, J.~Li, H.~Wang, T.~Hoang, B.~Glisic, L.~J. Bond, M.~Pereira, Y.~Shu, K.~J. Loh, Y.~Wang, S.~Ding, X.~Wang, X.~Yu, B.~Han, Y.~Goldfeld, D.~Ryu, R.~Napolitano, F.~Moreu, G.~Giardina, P.~Milillo, Roadmap on measurement technologies for next generation structural health monitoring systems, Measurement Science and Technology 34~(9) (2023) 093001.
+\newblock \href {https://doi.org/10.1088/1361-6501/acd135} {\path{doi:10.1088/1361-6501/acd135}}.
+
+\bibitem{ni_sensor_2023}
+Y.~Ni, X.~Liu, C.~Yang, Sensor {{Scheduling}} for {{Remote State Estimation}} with {{Limited Communication Resources}}: {{A Time-}} and {{Event-Triggered Hybrid Approach}}, Sensors 23~(21) (2023) 8667.
+\newblock \href {https://doi.org/10.3390/s23218667} {\path{doi:10.3390/s23218667}}.
+
+\bibitem{fanariotis_reducingpowerconsumption_2024}
+A.~Fanariotis, T.~Orphanoudakis, V.~Fotopoulos, Reducing the {{Power Consumption}} of {{Edge Devices Supporting Ambient Intelligence Applications}}, Information 15~(3) (2024) 161.
+\newblock \href {https://doi.org/10.3390/info15030161} {\path{doi:10.3390/info15030161}}.
+
+\bibitem{sarwar_multimetric_2020}
+M.~Z. Sarwar, M.~R. Saleem, J.-W. Park, D.-S. Moon, D.~J. Kim, Multimetric {{Event-Driven System}} for {{Long-Term Wireless Sensor Operation}} for {{SHM Applications}}, IEEE Sensors Journal 20~(10) (2020) 5350--5359.
+\newblock \href {https://doi.org/10.1109/JSEN.2020.2970710} {\path{doi:10.1109/JSEN.2020.2970710}}.
+
+\bibitem{fu_distributed_2024}
+J.~Fu, X.~Ma, H.~Yu, K.~Dai, Distributed energy-efficient wireless sensing and information fusion via event-driven and state-rank activation, Wireless Networks 30~(4) (2024) 2697--2711.
+\newblock \href {https://doi.org/10.1007/s11276-024-03691-8} {\path{doi:10.1007/s11276-024-03691-8}}.
+
+\bibitem{fu_effectivestructuralimpact_2025}
+Y.~Fu, Z.~Wang, A.~Maghareh, S.~Dyke, M.~Jahanshahi, A.~Shahriar, F.~Zhang, Effective structural impact detection and localization using convolutional neural network and {{Bayesian}} information fusion with limited sensors, Mechanical Systems and Signal Processing 224 (2025) 112074.
+\newblock \href {https://doi.org/10.1016/j.ymssp.2024.112074} {\path{doi:10.1016/j.ymssp.2024.112074}}.
+
+\bibitem{ge_dynamic_2020}
+X.~Ge, Q.-L. Han, L.~Ding, Y.-L. Wang, X.-M. Zhang, Dynamic {{Event-Triggered Distributed Coordination Control}} and its {{Applications}}: {{A Survey}} of {{Trends}} and {{Techniques}}, IEEE Transactions on Systems, Man, and Cybernetics: Systems 50~(9) (2020) 3112--3125.
+\newblock \href {https://doi.org/10.1109/TSMC.2020.3010825} {\path{doi:10.1109/TSMC.2020.3010825}}.
+
+\bibitem{zhu_eventtriggered_2022}
+K.~Zhu, Y.~Wang, Event-{{Triggered Sensor Fault Estimation}} of {{Unreliable Networked Unmanned Surface Vehicle System With Correlated Noises}}, IEEE Transactions on Vehicular Technology 71~(3) (2022) 2527--2537.
+\newblock \href {https://doi.org/10.1109/TVT.2022.3142147} {\path{doi:10.1109/TVT.2022.3142147}}.
+
+\bibitem{fu_ximpact_2022}
+Y.~Fu, Y.~Zhu, T.~Hoang, K.~Mechitov, B.~F. Spencer, {{xImpact}}: {{Intelligent Wireless System}} for {{Cost-Effective Rapid Condition Assessment}} of {{Bridges}} under {{Impacts}}, Sensors 22~(15) (2022) 5701.
+\newblock \href {https://doi.org/10.3390/s22155701} {\path{doi:10.3390/s22155701}}.
+
+\bibitem{tu_distributed_2024}
+J.~Tu, L.~Yang, J.~Cao, Distributed {{Machine Learning}} in {{Edge Computing}}: {{Challenges}}, {{Solutions}} and {{Future Directions}}, ACM Comput. Surv. (Dec. 2024).
+\newblock \href {https://doi.org/10.1145/3708495} {\path{doi:10.1145/3708495}}.
+
+\bibitem{cui_adaptiveedgeintelligence_2025}
+S.~Cui, T.~Hoang, K.~Mechitov, Y.~Fu, B.~F. Spencer, Adaptive edge intelligence for rapid structural condition assessment using a wireless smart sensor network, Engineering Structures 326 (2025) 119520.
+\newblock \href {https://doi.org/10.1016/j.engstruct.2024.119520} {\path{doi:10.1016/j.engstruct.2024.119520}}.
+
+\bibitem{analogdevices_adxl362_2024}
+AnalogDevices, {{ADXL362 Datasheet}} and {{Product Info}} {\textbar} {{Analog Devices}}, https://www.analog.com/en/products/adxl362.html (Dec. 2024).
+
+\bibitem{bishop_deep_2024}
+C.~M. Bishop, H.~Bishop, Deep {{Learning}}: {{Foundations}} and {{Concepts}}, Springer International Publishing, Cham, 2024.
+\newblock \href {https://doi.org/10.1007/978-3-031-45468-4} {\path{doi:10.1007/978-3-031-45468-4}}.
+
+\bibitem{ogata_modern_2010}
+K.~Ogata, Modern {{Control Engineering}}, Prentice Hall, 2010.
+
+\bibitem{agrawal_bayesianoptimization_2021}
+T.~Agrawal, Bayesian {{Optimization}}, in: Hyperparameter {{Optimization}} in {{Machine Learning}}, Apress, Berkeley, CA, 2021, pp. 81--108.
+\newblock \href {https://doi.org/10.1007/978-1-4842-6579-6_4} {\path{doi:10.1007/978-1-4842-6579-6_4}}.
+
+\bibitem{ganguli_digitaltwindynamic_2023}
+R.~Ganguli, S.~Adhikari, S.~Chakraborty, M.~Ganguli, Digital {{Twin}}: {{A Dynamic System}} and {{Computing Perspective}}, Taylor \& Francis Group, 2023.
+
+\bibitem{newmark_methodcomputationstructural_1959}
+N.~M. Newmark, A {{Method}} of {{Computation}} for {{Structural Dynamics}}, Journal of the Engineering Mechanics Division 85~(3) (1959) 67--94.
+\newblock \href {https://doi.org/10.1061/JMCEA3.0000098} {\path{doi:10.1061/JMCEA3.0000098}}.
+
+\bibitem{han_electrocardiogramsignaldenoising_2017}
+G.~Han, B.~Lin, Z.~Xu, Electrocardiogram signal denoising based on empirical mode decomposition technique: An overview, Journal of Instrumentation 12~(03) (2017) P03010.
+\newblock \href {https://doi.org/10.1088/1748-0221/12/03/P03010} {\path{doi:10.1088/1748-0221/12/03/P03010}}.
+
+\bibitem{frazier_tutorialbayesianoptimization_2018}
+P.~I. Frazier, A {{Tutorial}} on {{Bayesian Optimization}} (Jul. 2018).
+\newblock \href {http://arxiv.org/abs/1807.02811} {\path{arXiv:1807.02811}}, \href {https://doi.org/10.48550/arXiv.1807.02811} {\path{doi:10.48550/arXiv.1807.02811}}.
+
+\bibitem{espressif_espdsp_2025}
+Espressif, {{ESP-DSP}} (Feb. 2025).
+
+\bibitem{espressif_espdl_2025}
+Espressif, {{ESP-DL}} (Feb. 2025).
+
+\bibitem{lee_dualcorebased_2024}
+D.~Lee, J.-S. Kim, S.~Hong, Dual {{Core Based Microcontrollers Inference Design}} and {{Performance Analysis}}, IEEE Access 12 (2024) 120326--120336.
+\newblock \href {https://doi.org/10.1109/ACCESS.2024.3443406} {\path{doi:10.1109/ACCESS.2024.3443406}}.
+
+\bibitem{lin_mcunettinydeep_2020}
+J.~Lin, W.-M. Chen, Y.~Lin, J.~Cohn, C.~Gan, S.~Han, {{MCUNet}}: {{Tiny Deep Learning}} on {{IoT Devices}} (Nov. 2020).
+\newblock \href {http://arxiv.org/abs/2007.10319} {\path{arXiv:2007.10319}}, \href {https://doi.org/10.48550/arXiv.2007.10319} {\path{doi:10.48550/arXiv.2007.10319}}.
+
+\end{thebibliography}
