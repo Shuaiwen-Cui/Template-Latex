@@ -1,0 +1,30 @@
+\begin{thebibliography}{3}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Fortunato(2010)}]{Fortunato2010}
+\bibinfo{author}{Fortunato, S.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Community detection in graphs}.
+\newblock \bibinfo{journal}{Phys. Rep.-Rev. Sec. Phys. Lett.} \bibinfo{volume}{486}, \bibinfo{pages}{75--174}.
+%Type = Article
+\bibitem[{Newman and Girvan(2004)}]{NewmanGirvan2004}
+\bibinfo{author}{Newman, M.E.J.}, \bibinfo{author}{Girvan, M.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Finding and evaluating community structure in networks}.
+\newblock \bibinfo{journal}{Phys. Rev. E.} \bibinfo{volume}{69}, \bibinfo{pages}{026113}.
+%Type = Article
+\bibitem[{Vehlow et~al.(2013)Vehlow, Reinhardt and Weiskopf}]{Vehlowetal2013}
+\bibinfo{author}{Vehlow, C.}, \bibinfo{author}{Reinhardt, T.}, \bibinfo{author}{Weiskopf, D.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Visualizing fuzzy overlapping communities in networks}.
+\newblock \bibinfo{journal}{IEEE Trans. Vis. Comput. Graph.} \bibinfo{volume}{19}, \bibinfo{pages}{2486--2495}.
+
+\end{thebibliography}
